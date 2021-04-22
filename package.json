@@ -2,7 +2,9 @@
   "name": "next2-auth0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "next"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
     "auth0-lock": "^10.7.2",
